@@ -1,3 +1,7 @@
+AILT – AI Linux Terminal
+Alpha
+Console experience powered with AI companion. Write commands in natural language and let AI do the rest.
+
 About
 AILT is a Linux terminal tool powered by AI. It allows you to issue commands in natural language, which it can execute on your system. Designed primarily as a learning tool and assistant, AILT is intended to support your workflow rather than replace your control—users should remain the main driver while relying on AILT as a helper.
 
