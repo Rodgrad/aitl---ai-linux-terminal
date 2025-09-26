@@ -32,6 +32,21 @@ sudo rpm -i ailt.rpm
 # DEB
 sudo dpkg -i ailt.deb
 ```
+
+## First Run
+
+```bash
+# Run ollama in the background
+
+ollama serve & 
+
+# Download model
+ollama pull mistral
+
+# Run AILT
+ailt
+```
+
 > **Note:** The default AI model used by AILT is **Mistral**.  
 
 > **Note:** Installing and using AILT requires **OLLAMA** and **Mistral7b** model, which will download approximately **5 GB** of data. Ensure you have enough storage before installation.
